@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fish-heart-owl/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/fish-heart-owl/static/js/main.731239ad.chunk.js",
+    "main.js.map": "/fish-heart-owl/static/js/main.731239ad.chunk.js.map",
+    "runtime-main.js": "/fish-heart-owl/static/js/runtime-main.9e669be9.js",
+    "runtime-main.js.map": "/fish-heart-owl/static/js/runtime-main.9e669be9.js.map",
+    "static/js/2.af156c30.chunk.js": "/fish-heart-owl/static/js/2.af156c30.chunk.js",
+    "static/js/2.af156c30.chunk.js.map": "/fish-heart-owl/static/js/2.af156c30.chunk.js.map",
+    "static/js/3.94310ed5.chunk.js": "/fish-heart-owl/static/js/3.94310ed5.chunk.js",
+    "static/js/3.94310ed5.chunk.js.map": "/fish-heart-owl/static/js/3.94310ed5.chunk.js.map",
+    "index.html": "/fish-heart-owl/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/fish-heart-owl/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.af156c30.chunk.js.LICENSE.txt": "/fish-heart-owl/static/js/2.af156c30.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fish-heart-owl/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e669be9.js",
+    "static/js/2.af156c30.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.731239ad.chunk.js"
+  ]
+}
